@@ -1,4 +1,7 @@
 # Maze-solver
 
-This project is basically using BFS algorithm to search path from entry gate to exit gate.
-for execution of this project on your computer you have to change path for the images
+<li>
+<ul>The maze solver is an implementation of <b>BFS</b> and <b>DFS</b> algorithms with graphical user interface made in java.</ul>
+<ul>User can create their own maze by adding and removing walls also can decide number of rows and columns for the maze.</ul>
+</li>
+
