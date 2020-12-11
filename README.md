@@ -5,4 +5,4 @@
 <ul>User can create their own maze by adding and removing walls also can decide number of rows and columns for the maze.</ul>
 </li>
 
-[https://github.com/Prithviraj2511/Maze-solver/blob/master/maze.png](maze)
+![maze](https://github.com/Prithviraj2511/Maze-solver/blob/master/maze.png?raw=true)
